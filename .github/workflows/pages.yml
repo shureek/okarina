@@ -32,13 +32,23 @@ jobs:
           if [ -d notes ]; then
             cp -R notes site/
           fi
+          if [ -f styles/site.css ]; then
+            cp styles/site.css site/style.css
+            css_arg="--css style.css"
+          else
+            css_arg=""
+          fi
           for md in *.md; do
             base="${md%.md}"
             outfile="${base}.html"
             if [ "$base" = "readme" ]; then
               outfile="index.html"
             fi
-            pandoc "$md" -o "site/$outfile" --standalone --metadata title="$base"
+            title=$(grep -m1 '^#' "$md" | sed 's/^#\+\s*//')
+            if [ -z "$title" ]; then
+              title="$base"
+            fi
+            pandoc "$md" -o "site/$outfile" --standalone --metadata pagetitle="$title" $css_arg
           done
 
       - name: Fix internal links
