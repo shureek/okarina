@@ -7,4 +7,5 @@
   <circle cx="55" cy="48" r="5.4" fill="white" stroke="black" stroke-width="1.5" />
   <circle cx="30" cy="70" r="6" fill="black" />
   <circle cx="60" cy="70" r="6" fill="black" />
+  <text x="45" y="85" text-anchor="middle" font-family="sans-serif" font-size="12">ля</text>
 </svg>

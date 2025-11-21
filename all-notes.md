@@ -22,5 +22,3 @@
 ![2re](notes/2re.svg) ре  
 ![2re♯](notes/2re+.svg) ре♯ или ми♭  
 ![2mi](notes/2mi.svg) ми
-
-

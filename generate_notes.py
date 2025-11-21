@@ -77,10 +77,13 @@ class Fingering:
             for idx, ((x, y), state) in enumerate(zip(coords, self.holes))
         )
 
+        label = NOTE_LABELS.get(title, title)
+
         return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{size}" height="{size}" viewBox="0 0 {size} {size}">
   <title>{title}</title>
   <circle cx="45" cy="40" r="{outer_r}" fill="#f26522" stroke="black" stroke-width="2" />
   {holes_svg}
+  <text x="45" y="85" text-anchor="middle" font-family="sans-serif" font-size="12">{label}</text>
 </svg>
 """
 
@@ -95,20 +98,54 @@ NOTE_FINGERINGS: dict[str, str] = {
     "do+": "212222",
     "re": "202222",
     "re+": "222122",
+    "re-": "212222",  # то же, что до♯
     "mi": "222022",
+    "mi-": "222122",
     "fa": "202022",
     "fa+": "022222",
     "sol": "002222",
     "sol+": "022022",
+    "sol-": "022222",
     "la": "002022",
     "la+": "000222",
+    "la-": "022022",
     "si": "020022",
+    "si-": "000222",
     # Верхние ноты
     "2do": "000022",
     "2do+": "020002",
     "2re": "000002",
     "2re+": "020000",
+    "2re-": "020002",
     "2mi": "000000",
+    "2mi-": "020000",
+}
+
+NOTE_LABELS: dict[str, str] = {
+    "do": "до",
+    "do+": "до♯",
+    "re": "ре",
+    "re+": "ре♯",
+    "re-": "ре♭",
+    "mi": "ми",
+    "mi-": "ми♭",
+    "fa": "фа",
+    "fa+": "фа♯",
+    "sol": "соль",
+    "sol+": "соль♯",
+    "sol-": "соль♭",
+    "la": "ля",
+    "la+": "ля♯",
+    "la-": "ля♭",
+    "si": "си",
+    "si-": "си♭",
+    "2do": "до",
+    "2do+": "до♯",
+    "2re": "ре",
+    "2re+": "ре♯",
+    "2re-": "ре♭",
+    "2mi": "ми",
+    "2mi-": "ми♭",
 }
 
 
