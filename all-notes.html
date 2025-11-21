@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <title>Ноты окарины</title>
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      :root {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        color: #111;
+      }
+      body {
+        margin: 0;
+        padding: 24px;
+        background: #f5f5f5;
+      }
+      h1 {
+        text-align: center;
+        margin-bottom: 2rem;
+      }
+      .piano-wrapper {
+        position: relative;
+        max-width: 1000px;
+        margin: 0 auto;
+        padding-bottom: 60px;
+      }
+      .white-keys {
+        display: flex;
+        gap: 4px;
+      }
+      .white-key {
+        flex: 1;
+        height: 220px;
+        background: #fff;
+        border: 2px solid #d0d0d0;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+      }
+      .white-key img {
+        width: 75%;
+        height: auto;
+        margin-top: 130px;
+      }
+      .black-keys {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 140px;
+        pointer-events: none;
+      }
+      .black-key {
+        position: absolute;
+        width: calc(8% + 4px);
+        height: 140px;
+        background: #dcdcdc;
+        border: 2px solid #bababa;
+        border-radius: 6px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .black-key img {
+        width: 75%;
+        height: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Ноты окарины</h1>
+    <div class="piano-wrapper">
+      <div class="white-keys">
+        <div class="white-key">
+          <img src="notes/do.svg" alt="до" />
+        </div>
+        <div class="white-key">
+          <img src="notes/re.svg" alt="ре" />
+        </div>
+        <div class="white-key">
+          <img src="notes/mi.svg" alt="ми" />
+        </div>
+        <div class="white-key">
+          <img src="notes/fa.svg" alt="фа" />
+        </div>
+        <div class="white-key">
+          <img src="notes/sol.svg" alt="соль" />
+        </div>
+        <div class="white-key">
+          <img src="notes/la.svg" alt="ля" />
+        </div>
+        <div class="white-key">
+          <img src="notes/si.svg" alt="си" />
+        </div>
+        <div class="white-key">
+          <img src="notes/2do.svg" alt="до²" />
+        </div>
+        <div class="white-key">
+          <img src="notes/2re.svg" alt="ре²" />
+        </div>
+        <div class="white-key">
+          <img src="notes/2mi.svg" alt="ми²" />
+        </div>
+      </div>
+      <div class="black-keys">
+        <div class="black-key" style="left: calc(10% - 4%);">
+          <img src="notes/do+.svg" alt="до♯" />
+        </div>
+        <div class="black-key" style="left: calc(20% - 4%);">
+          <img src="notes/re+.svg" alt="ре♯" />
+        </div>
+        <div class="black-key" style="left: calc(40% - 4%);">
+          <img src="notes/fa+.svg" alt="фа♯" />
+        </div>
+        <div class="black-key" style="left: calc(50% - 4%);">
+          <img src="notes/sol+.svg" alt="соль♯" />
+        </div>
+        <div class="black-key" style="left: calc(60% - 4%);">
+          <img src="notes/la+.svg" alt="ля♯" />
+        </div>
+        <div class="black-key" style="left: calc(80% - 4%);">
+          <img src="notes/2do+.svg" alt="до♯²" />
+        </div>
+        <div class="black-key" style="left: calc(90% - 4%);">
+          <img src="notes/2re+.svg" alt="ре♯²" />
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+

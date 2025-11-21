@@ -51,6 +51,10 @@ jobs:
             pandoc "$md" -o "site/$outfile" --standalone --metadata pagetitle="$title" $css_arg
           done
 
+          if [ -f all-notes.html ]; then
+            cp all-notes.html site/all-notes.html
+          fi
+
       - name: Fix internal links
         run: |
           python - <<'PY'
