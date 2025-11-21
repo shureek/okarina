@@ -5,4 +5,5 @@
 ## Мелодии
 
 - [Крёстный отец](./godfather-theme.md)
+- [В лесу родилась ёлочка](./v-lesu-rodilas-elochka.md)
 - [Маленькой ёлочке холодно](./malenkoy-elochke.md)
