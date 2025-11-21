@@ -44,13 +44,23 @@ jobs:
       - name: Fix internal links
         run: |
           python - <<'PY'
-import pathlib, re
-for html_file in pathlib.Path("site").glob("*.html"):
-    text = html_file.read_text(encoding="utf-8")
-    text = re.sub(r'href="([^"#?]+)\.md(\?[^"]*)?"', lambda m: f'href="{m.group(1)}.html{m.group(2) or ""}"', text)
-    text = re.sub(r"href='([^'#?]+)\.md(\?[^']*)?'", lambda m: f"href='{m.group(1)}.html{m.group(2) or ''}'", text)
-    html_file.write_text(text, encoding="utf-8")
-PY
+          import pathlib
+          import re
+
+          for html_file in pathlib.Path("site").glob("*.html"):
+              text = html_file.read_text(encoding="utf-8")
+              text = re.sub(
+                  r'href="([^"#?]+)\.md(\?[^"]*)?"',
+                  lambda m: f'href="{m.group(1)}.html{m.group(2) or ""}"',
+                  text,
+              )
+              text = re.sub(
+                  r"href='([^'#?]+)\.md(\?[^']*)?'",
+                  lambda m: f"href='{m.group(1)}.html{m.group(2) or ''}'",
+                  text,
+              )
+              html_file.write_text(text, encoding="utf-8")
+          PY
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
