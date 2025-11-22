@@ -1,11 +1,11 @@
 # Addams Family theme
 
-фа соль ля си♭, соль ля си до  
-соль ля си до, соль ля си до, фа соль ля си♭  
+![фа](notes/fa.svg) ![соль](notes/sol.svg) ![ля](notes/la.svg) ![си♭](notes/si-.svg), ![соль](notes/sol.svg) ![ля](notes/la.svg) ![си](notes/si.svg) ![до](notes/do.svg)  
+![соль](notes/sol.svg) ![ля](notes/la.svg) ![си](notes/si.svg) ![до](notes/do.svg), ![соль](notes/sol.svg) ![ля](notes/la.svg) ![си](notes/si.svg) ![до](notes/do.svg), ![фа](notes/fa.svg) ![соль](notes/sol.svg) ![ля](notes/la.svg) ![си♭](notes/si-.svg)  
 
-фа си♭ ре си♭ соль ми♭ до2, ми♭ ля до ля фа ре си♭  
-фа си♭ ре си♭ соль ми♭ до2, си♭ ля фа соль ля си♭  
+![фа](notes/fa.svg) ![си♭](notes/si-.svg) ![ре](notes/re.svg) ![си♭](notes/si-.svg) ![соль](notes/sol.svg) ![ми♭](notes/mi-.svg) ![до2](notes/2do.svg), ![ми♭](notes/mi-.svg) ![ля](notes/la.svg) ![до](notes/do.svg) ![ля](notes/la.svg) ![фа](notes/fa.svg) ![ре](notes/re.svg) ![си♭](notes/si-.svg)  
+![фа](notes/fa.svg) ![си♭](notes/si-.svg) ![ре](notes/re.svg) ![си♭](notes/si-.svg) ![соль](notes/sol.svg) ![ми♭](notes/mi-.svg) ![до2](notes/2do.svg), ![си♭](notes/si-.svg) ![ля](notes/la.svg) ![фа](notes/fa.svg) ![соль](notes/sol.svg) ![ля](notes/la.svg) ![си♭](notes/si-.svg)  
 
-си♭ ре фа соль ля си♭, ре фа соль ля си♭, ре фа соль ля си♭, ре фа соль ля си♭  
-соль ля си до  
-соль ля си до, соль ля си до, фа соль ля си♭  
+![си♭](notes/si-.svg) ![ре](notes/re.svg) ![фа](notes/fa.svg) ![соль](notes/sol.svg) ![ля](notes/la.svg) ![си♭](notes/si-.svg), ![ре](notes/re.svg) ![фа](notes/fa.svg) ![соль](notes/sol.svg) ![ля](notes/la.svg) ![си♭](notes/si-.svg), ![ре](notes/re.svg) ![фа](notes/fa.svg) ![соль](notes/sol.svg) ![ля](notes/la.svg) ![си♭](notes/si-.svg), ![ре](notes/re.svg) ![фа](notes/fa.svg) ![соль](notes/sol.svg) ![ля](notes/la.svg) ![си♭](notes/si-.svg)  
+![соль](notes/sol.svg) ![ля](notes/la.svg) ![си](notes/si.svg) ![до](notes/do.svg)  
+![соль](notes/sol.svg) ![ля](notes/la.svg) ![си](notes/si.svg) ![до](notes/do.svg), ![соль](notes/sol.svg) ![ля](notes/la.svg) ![си](notes/si.svg) ![до](notes/do.svg), ![фа](notes/fa.svg) ![соль](notes/sol.svg) ![ля](notes/la.svg) ![си♭](notes/si-.svg)  
