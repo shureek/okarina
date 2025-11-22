@@ -5,8 +5,9 @@
 ## Мелодии
 
 - [Крёстный отец](./godfather-theme.md)
-- [Бременские музыканты](bremenskie-muzikanty.md)
-- [Песня Балу](balu-song.md)
+- [Бременские музыканты](./bremenskie-muzikanty.md)
+- [Песня Балу](./balu-song.md)
+- [Addams Family theme](./addams-family.md)
 - [В траве сидел кузнечик](./v-trave-sidel-kuznechik.md)
 - [В лесу родилась ёлочка](./v-lesu-rodilas-elochka.md)
 - [Маленькой ёлочке холодно](./malenkoy-elochke.md)
