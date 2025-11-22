@@ -17,3 +17,9 @@ Old Mother Nature’s recipes
 
 That brings the bare necessities of life  
 ![sol](notes/sol.svg) ![la](notes/la.svg) ![2do](notes/2do.svg) ![la](notes/la.svg) ![2do](notes/2do.svg) ![la](notes/la.svg) ![fa](notes/fa.svg) ![re](notes/re.svg) ![do](notes/do.svg) ![fa](notes/fa.svg)
+
+![фа](notes/fa.svg) ![фа](notes/fa.svg) ![ми](notes/mi.svg) ![ре](notes/re.svg) ![до](notes/do.svg) ![соль](notes/sol.svg) ![соль](notes/sol.svg) ![соль](notes/sol.svg) ![фа](notes/fa.svg) ![соль](notes/sol.svg) ![ля](notes/la.svg)  
+![фа](notes/fa.svg) ![фа](notes/fa.svg) ![ми](notes/mi.svg) ![ре](notes/re.svg) ![до](notes/do.svg) ![соль](notes/sol.svg) ![соль](notes/sol.svg) ![фа](notes/fa.svg) ![соль](notes/sol.svg) ![ля](notes/la.svg)  
+![ля](notes/la.svg) ![B](notes/si-.svg) ![до2](notes/2do.svg) ![ре2](notes/2re.svg) ![ре2](notes/2re.svg) ![ре2](notes/2re.svg) ![B](notes/si-.svg) ![ля](notes/la.svg) ![соль](notes/sol.svg) ![ля](notes/la.svg) ![B](notes/si-.svg) ![до2](notes/2do.svg) ![до2](notes/2do.svg) ![до2](notes/2do.svg) ![ля](notes/la.svg) ![соль](notes/sol.svg)  
+![ля](notes/la.svg) ![ре](notes/re.svg) ![ре](notes/re.svg) ![ре](notes/re.svg) ![ля](notes/la.svg) ![ре](notes/re.svg) ![ре](notes/re.svg) ![ре](notes/re.svg) ![ре](notes/re.svg) ![B](notes/si-.svg) ![B](notes/si-.svg) ![B](notes/si-.svg) ![ля](notes/la.svg) ![соль](notes/sol.svg) ![фа](notes/fa.svg) ![ми](notes/mi.svg) ![ми](notes/mi.svg) ![ре](notes/re.svg) ![ми](notes/mi.svg) ![фа](notes/fa.svg)
+![ля](notes/la.svg) ![B](notes/si-.svg) ![до2](notes/2do.svg) ![ре2](notes/2re.svg) ![ре2](notes/2re.svg) ![ре2](notes/2re.svg)  
