@@ -7,6 +7,7 @@
 - [Крёстный отец](./godfather-theme.md)
 - [Бременские музыканты](./bremenskie-muzikanty.md)
 - [Песня Балу](./balu-song.md)
+- [Одинокий пастух](./odinokiy-pastuh.md)
 - [Addams Family theme](./addams-family.md)
 - [В траве сидел кузнечик](./v-trave-sidel-kuznechik.md)
 - [В лесу родилась ёлочка](./v-lesu-rodilas-elochka.md)
