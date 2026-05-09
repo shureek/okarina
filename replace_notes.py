@@ -3,6 +3,12 @@ import pathlib
 import re
 
 NOTE_FILES = {
+    # Нижняя октава (концертные ноты ниже центральной «до»)
+    "0la": "notes/0la.svg",
+    "0la+": "notes/0la+.svg",
+    "0si-": "notes/0si-.svg",
+    "0si": "notes/0si.svg",
+    # Центральная октава
     "do": "notes/do.svg",
     "do+": "notes/do+.svg",
     "re-": "notes/re-.svg",
@@ -20,13 +26,15 @@ NOTE_FILES = {
     "la+": "notes/la+.svg",
     "si-": "notes/si-.svg",
     "si": "notes/si.svg",
+    # Верхняя октава на инструменте
     "2do": "notes/2do.svg",
     "2do+": "notes/2do+.svg",
     "2re-": "notes/2re-.svg",
-    "2re": "notes/2re.svg",
-    "2re+": "notes/2re+.svg",
-    "2mi-": "notes/2mi-.svg",
-    "2mi": "notes/2mi.svg",
+    # Старые имена ступеней → тот же фингеринг по концертной высоте
+    "2re": "notes/si.svg",
+    "2re+": "notes/2do.svg",
+    "2mi": "notes/2do+.svg",
+    "2mi-": "notes/2do.svg",
 }
 
 RU_BASE = {
@@ -69,7 +77,7 @@ PATTERN = re.compile(
     rf"""
     {LEFT_BOUNDARY}
     (
-        (?:2)?{NOTE_WORD}(?:2)?
+        (?:0|2)?{NOTE_WORD}(?:0|2)?
         |
         [A-GH]
     )
@@ -80,19 +88,27 @@ PATTERN = re.compile(
 )
 
 
+def _strip_octave(token: str) -> tuple[str, str]:
+    """Возвращает (ядро_ноты_в_нижнем_регистре, октава '' | '0' | '2')."""
+    t = token.strip()
+    low = t.lower()
+    if low.startswith("2"):
+        return t[1:], "2"
+    if low.endswith("2"):
+        return t[:-1], "2"
+    if low.startswith("0"):
+        return t[1:], "0"
+    if low.endswith("0"):
+        return t[:-1], "0"
+    return t, ""
+
+
 def normalize(note: str, accidental: str) -> str:
-    token = note
     acc = accidental
     acc = acc.replace("#", "+").replace("♯", "+").replace("b", "-").replace("♭", "-")
 
-    octave = ""
-    core = token
-    if core.lower().startswith("2"):
-        octave = "2"
-        core = core[1:]
-    elif core.lower().endswith("2"):
-        octave = "2"
-        core = core[:-1]
+    core, octave = _strip_octave(note)
+    core = core.strip()
 
     default_acc = ""
     base = ""
@@ -109,7 +125,6 @@ def normalize(note: str, accidental: str) -> str:
 
     final_acc = acc if acc else default_acc
     key = (octave + base + final_acc).replace("+-", "-").replace("-+", "+")
-    key = key.replace("do", "do").replace("sol", "sol")
     return NOTE_FILES.get(key, "")
 
 
@@ -140,5 +155,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-

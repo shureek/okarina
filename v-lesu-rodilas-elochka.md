@@ -1,25 +1,25 @@
 ## В лесу родилась ёлочка
 
 В лесу родилась ёлочка  
-![do](notes/do.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![sol](notes/sol.svg) ![la](notes/la.svg) ![fa](notes/fa.svg) ![do](notes/do.svg) ![do](notes/do.svg)
+![do](notes/0la.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg) ![la](notes/fa+.svg) ![fa](notes/re.svg) ![do](notes/0la.svg) ![do](notes/0la.svg)
 
 В лесу она росла  
-![do](notes/do.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![si♭](notes/si-.svg) ![2re](notes/2re.svg) ![2do](notes/2do.svg)
+![do](notes/0la.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![si♭](notes/sol.svg) ![2re](notes/si.svg) ![2do](notes/la.svg)
 
 Зимой и летом стройная  
-![2do](notes/2do.svg) ![re](notes/re.svg) ![re](notes/re.svg) ![si♭](notes/si-.svg) ![si♭](notes/si-.svg) ![la](notes/la.svg) ![sol](notes/sol.svg) ![fa](notes/fa.svg)
+![2do](notes/la.svg) ![re](notes/0si.svg) ![re](notes/0si.svg) ![si♭](notes/sol.svg) ![si♭](notes/sol.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg) ![fa](notes/re.svg)
 
 Зелёная была  
-![do](notes/do.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![sol](notes/sol.svg) ![la](notes/la.svg) ![fa](notes/fa.svg)
+![do](notes/0la.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg) ![la](notes/fa+.svg) ![fa](notes/re.svg)
 
 Метель ей пела песенку:  
-![do](notes/do.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![sol](notes/sol.svg) ![la](notes/la.svg) ![fa](notes/fa.svg) ![do](notes/do.svg) ![do](notes/do.svg)
+![do](notes/0la.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg) ![la](notes/fa+.svg) ![fa](notes/re.svg) ![do](notes/0la.svg) ![do](notes/0la.svg)
 
 Спи, ёлочка, бай-бай  
-![do](notes/do.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![si♭](notes/si-.svg) ![2re](notes/2re.svg) ![2do](notes/2do.svg)
+![do](notes/0la.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![si♭](notes/sol.svg) ![2re](notes/si.svg) ![2do](notes/la.svg)
 
 Мороз снежком укутывал:  
-![2do](notes/2do.svg) ![re](notes/re.svg) ![re](notes/re.svg) ![si♭](notes/si-.svg) ![si♭](notes/si-.svg) ![la](notes/la.svg) ![sol](notes/sol.svg) ![fa](notes/fa.svg)
+![2do](notes/la.svg) ![re](notes/0si.svg) ![re](notes/0si.svg) ![si♭](notes/sol.svg) ![si♭](notes/sol.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg) ![fa](notes/re.svg)
 
 Смотри, не замерзай  
-![do](notes/do.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![sol](notes/sol.svg) ![la](notes/la.svg) ![fa](notes/fa.svg)
+![do](notes/0la.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg) ![la](notes/fa+.svg) ![fa](notes/re.svg)

@@ -1,37 +1,37 @@
 ## Чунга-чанга
 
 Чунга-чанга, синий небосвод  
-![do](notes/do.svg) ![mi♭](notes/mi-.svg) ![sol](notes/sol.svg) ![sol](notes/sol.svg) ![sol](notes/sol.svg) ![fa](notes/fa.svg) ![sol](notes/sol.svg) ![la♭](notes/la-.svg) ![sol](notes/sol.svg)
+![do](notes/0la.svg) ![mi♭](notes/do.svg) ![sol](notes/mi.svg) ![sol](notes/mi.svg) ![sol](notes/mi.svg) ![fa](notes/re.svg) ![sol](notes/mi.svg) ![la♭](notes/fa.svg) ![sol](notes/mi.svg)
 
 Чунга-чанга, лето круглый год  
-![2do](notes/2do.svg) ![mi♭](notes/mi-.svg) ![re](notes/re.svg) ![re](notes/re.svg) ![re](notes/re.svg) ![mi♭](notes/mi-.svg) ![fa](notes/fa.svg) ![sol](notes/sol.svg) ![mi♭](notes/mi-.svg)
+![2do](notes/la.svg) ![mi♭](notes/do.svg) ![re](notes/0si.svg) ![re](notes/0si.svg) ![re](notes/0si.svg) ![mi♭](notes/do.svg) ![fa](notes/re.svg) ![sol](notes/mi.svg) ![mi♭](notes/do.svg)
 
 Чунга-чанга, весело живём  
-![do](notes/do.svg) ![mi♭](notes/mi-.svg) ![sol](notes/sol.svg) ![sol](notes/sol.svg) ![sol](notes/sol.svg) ![fa](notes/fa.svg) ![sol](notes/sol.svg) ![la♭](notes/la-.svg) ![sol](notes/sol.svg)
+![do](notes/0la.svg) ![mi♭](notes/do.svg) ![sol](notes/mi.svg) ![sol](notes/mi.svg) ![sol](notes/mi.svg) ![fa](notes/re.svg) ![sol](notes/mi.svg) ![la♭](notes/fa.svg) ![sol](notes/mi.svg)
 
 Чунга-чанга, песенку поём  
-![2do](notes/2do.svg) ![mi♭](notes/mi-.svg) ![re](notes/re.svg) ![re](notes/re.svg) ![re](notes/re.svg) ![mi♭](notes/mi-.svg) ![fa](notes/fa.svg) ![sol](notes/sol.svg) ![do](notes/do.svg)
+![2do](notes/la.svg) ![mi♭](notes/do.svg) ![re](notes/0si.svg) ![re](notes/0si.svg) ![re](notes/0si.svg) ![mi♭](notes/do.svg) ![fa](notes/re.svg) ![sol](notes/mi.svg) ![do](notes/0la.svg)
 
 Чудо-остров! Чудо-остров!  
-![sol](notes/sol.svg) ![2do](notes/2do.svg) ![si](notes/si.svg) ![la](notes/la.svg) ![sol](notes/sol.svg) ![la](notes/la.svg) ![si](notes/si.svg) ![la](notes/la.svg)  
+![sol](notes/mi.svg) ![2do](notes/la.svg) ![si](notes/sol+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg) ![la](notes/fa+.svg) ![si](notes/sol+.svg) ![la](notes/fa+.svg)  
 
 Жить на нём легко и просто  
-![sol](notes/sol.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![sol](notes/sol.svg) ![sol](notes/sol.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![sol](notes/sol.svg)  
+![sol](notes/mi.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg) ![sol](notes/mi.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg)  
 
 Жить на нём легко и просто  
-![sol](notes/sol.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![sol](notes/sol.svg) ![sol](notes/sol.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![sol](notes/sol.svg)  
+![sol](notes/mi.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg) ![sol](notes/mi.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg)  
 
 Чунга-чанга!  
-![la](notes/la.svg) ![si](notes/si.svg) ![la](notes/la.svg) ![sol](notes/sol.svg)
+![la](notes/fa+.svg) ![si](notes/sol+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg)
 
 Наше счастье — постоянно  
-![sol](notes/sol.svg) ![2do](notes/2do.svg) ![si](notes/si.svg) ![la](notes/la.svg) ![sol](notes/sol.svg) ![la](notes/la.svg) ![si](notes/si.svg) ![la](notes/la.svg)  
+![sol](notes/mi.svg) ![2do](notes/la.svg) ![si](notes/sol+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg) ![la](notes/fa+.svg) ![si](notes/sol+.svg) ![la](notes/fa+.svg)  
 
 Жуй кокосы, ешь бананы!  
-![sol](notes/sol.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![sol](notes/sol.svg) ![sol](notes/sol.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![sol](notes/sol.svg)  
+![sol](notes/mi.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg) ![sol](notes/mi.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg)  
 
 Жуй кокосы, ешь бананы!  
-![sol](notes/sol.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![sol](notes/sol.svg) ![sol](notes/sol.svg) ![la](notes/la.svg) ![la](notes/la.svg) ![sol](notes/sol.svg)
+![sol](notes/mi.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg) ![sol](notes/mi.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg) ![sol](notes/mi.svg)
 
 Чунга-чанга!  
-  ![fa](notes/fa.svg) ![mi](notes/mi.svg) ![re](notes/re.svg) ![do](notes/do.svg)
+  ![fa](notes/re.svg) ![mi](notes/do+.svg) ![re](notes/0si.svg) ![do](notes/0la.svg)

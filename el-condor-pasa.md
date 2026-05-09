@@ -1,6 +1,6 @@
 # El Cóndor Pasa (полёт орла)
 Daniel Alomía Robles
 
-![до#](notes/do+.svg) ![до](notes/do.svg) ![до#](notes/do+.svg) ![ре#](notes/re+.svg) ![ми](notes/mi.svg) ![ре#](notes/re+.svg) ![ми](notes/mi.svg) ![фа#](notes/fa+.svg) ![соль#](notes/sol+.svg) ![си](notes/si.svg) ![соль#](notes/sol+.svg) ![до2#](notes/2do+.svg) ![си](notes/si.svg) ![соль#](notes/sol+.svg) ![соль#](notes/sol+.svg) ![фа#](notes/fa+.svg) ![ми](notes/mi.svg) ![до#](notes/do+.svg) ![ми](notes/mi.svg) ![до#](notes/do+.svg) x2  
-![соль#](notes/sol+.svg) ![до2#](notes/2do+.svg) ![си](notes/si.svg) ![до2#](notes/2do+.svg) ![си](notes/si.svg) ![до2#](notes/2do+.svg) ![си](notes/si.svg) ![до2#](notes/2do+.svg) ![до2#](notes/2do+.svg) ![ми2](notes/2mi.svg) ![до2#](notes/2do+.svg) ![си](notes/si.svg) ![си](notes/si.svg) ![до2#](notes/2do+.svg) ![си](notes/si.svg) ![соль#](notes/sol+.svg) x2  
-![соль#](notes/sol+.svg) ![фа#](notes/fa+.svg) ![ми](notes/mi.svg) ![до#](notes/do+.svg) ![ми](notes/mi.svg) ![до#](notes/do+.svg)  
+![до#](notes/0la+.svg) ![до](notes/0la.svg) ![до#](notes/0la+.svg) ![ре#](notes/do.svg) ![ми](notes/do+.svg) ![ре#](notes/do.svg) ![ми](notes/do+.svg) ![фа#](notes/re+.svg) ![соль#](notes/fa.svg) ![си](notes/sol+.svg) ![соль#](notes/fa.svg) ![до2#](notes/la+.svg) ![си](notes/sol+.svg) ![соль#](notes/fa.svg) ![соль#](notes/fa.svg) ![фа#](notes/re+.svg) ![ми](notes/do+.svg) ![до#](notes/0la+.svg) ![ми](notes/do+.svg) ![до#](notes/0la+.svg) x2  
+![соль#](notes/fa.svg) ![до2#](notes/la+.svg) ![си](notes/sol+.svg) ![до2#](notes/la+.svg) ![си](notes/sol+.svg) ![до2#](notes/la+.svg) ![си](notes/sol+.svg) ![до2#](notes/la+.svg) ![до2#](notes/la+.svg) ![ми2](notes/2do+.svg) ![до2#](notes/la+.svg) ![си](notes/sol+.svg) ![си](notes/sol+.svg) ![до2#](notes/la+.svg) ![си](notes/sol+.svg) ![соль#](notes/fa.svg) x2  
+![соль#](notes/fa.svg) ![фа#](notes/re+.svg) ![ми](notes/do+.svg) ![до#](notes/0la+.svg) ![ми](notes/do+.svg) ![до#](notes/0la+.svg)  

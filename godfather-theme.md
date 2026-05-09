@@ -2,12 +2,12 @@
 
 Упрощённая мелодия, ля минор.
 
-![mi](notes/mi.svg) ![la](notes/la.svg) ![2do](notes/2do.svg) ![si](notes/si.svg) ![la](notes/la.svg) ![2do](notes/2do.svg) ![la](notes/la.svg) ![si](notes/si.svg) ![la](notes/la.svg) ![fa](notes/fa.svg) ![sol](notes/sol.svg) ![mi](notes/mi.svg)
+![mi](notes/do+.svg) ![la](notes/fa+.svg) ![2do](notes/la.svg) ![si](notes/sol+.svg) ![la](notes/fa+.svg) ![2do](notes/la.svg) ![la](notes/fa+.svg) ![si](notes/sol+.svg) ![la](notes/fa+.svg) ![fa](notes/re.svg) ![sol](notes/mi.svg) ![mi](notes/do+.svg)
 
-![mi](notes/mi.svg) ![la](notes/la.svg) ![2do](notes/2do.svg) ![si](notes/si.svg) ![la](notes/la.svg) ![2do](notes/2do.svg) ![la](notes/la.svg) ![si](notes/si.svg) ![la](notes/la.svg) ![fa](notes/fa.svg) ![mi](notes/mi.svg) ![re](notes/re.svg)
+![mi](notes/do+.svg) ![la](notes/fa+.svg) ![2do](notes/la.svg) ![si](notes/sol+.svg) ![la](notes/fa+.svg) ![2do](notes/la.svg) ![la](notes/fa+.svg) ![si](notes/sol+.svg) ![la](notes/fa+.svg) ![fa](notes/re.svg) ![mi](notes/do+.svg) ![re](notes/0si.svg)
 
-![re](notes/re.svg) ![fa](notes/fa.svg) ![la](notes/la.svg) ![si](notes/si.svg)
+![re](notes/0si.svg) ![fa](notes/re.svg) ![la](notes/fa+.svg) ![si](notes/sol+.svg)
 
-![re](notes/re.svg) ![fa](notes/fa.svg) ![sol♯](notes/sol+.svg) ![la](notes/la.svg)
+![re](notes/0si.svg) ![fa](notes/re.svg) ![sol♯](notes/fa.svg) ![la](notes/fa+.svg)
 
-![do](notes/do.svg) ![do](notes/do.svg) ![sol](notes/sol.svg) ![fa](notes/fa.svg) ![mi](notes/mi.svg) ![sol](notes/sol.svg) ![fa](notes/fa.svg) ![fa](notes/fa.svg) ![mi](notes/mi.svg) ![mi](notes/mi.svg) ![sol♯](notes/sol+.svg) ![la](notes/la.svg)
+![do](notes/0la.svg) ![do](notes/0la.svg) ![sol](notes/mi.svg) ![fa](notes/re.svg) ![mi](notes/do+.svg) ![sol](notes/mi.svg) ![fa](notes/re.svg) ![fa](notes/re.svg) ![mi](notes/do+.svg) ![mi](notes/do+.svg) ![sol♯](notes/fa.svg) ![la](notes/fa+.svg)

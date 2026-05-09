@@ -23,6 +23,7 @@
         max-width: 1000px;
         margin: 0 auto;
         padding-bottom: 60px;
+        overflow: hidden;
       }
       .white-keys {
         display: flex;
@@ -54,7 +55,7 @@
       }
       .black-key {
         position: absolute;
-        width: calc(8% + 4px);
+        width: calc(100% / 11 * 0.82);
         height: 140px;
         background: #dcdcdc;
         border: 2px solid #bababa;
@@ -62,6 +63,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        transform: translateX(-50%);
       }
       .black-key img {
         width: 75%;
@@ -73,6 +75,12 @@
     <h1>Ноты окарины</h1>
     <div class="piano-wrapper">
       <div class="white-keys">
+        <div class="white-key">
+          <img src="notes/0la.svg" alt="ля₀" />
+        </div>
+        <div class="white-key">
+          <img src="notes/0si.svg" alt="си₀" />
+        </div>
         <div class="white-key">
           <img src="notes/do.svg" alt="до" />
         </div>
@@ -97,37 +105,33 @@
         <div class="white-key">
           <img src="notes/2do.svg" alt="до²" />
         </div>
-        <div class="white-key">
-          <img src="notes/2re.svg" alt="ре²" />
-        </div>
-        <div class="white-key">
-          <img src="notes/2mi.svg" alt="ми²" />
-        </div>
+        <div class="white-key" aria-hidden="true"></div>
       </div>
       <div class="black-keys">
-        <div class="black-key" style="left: calc(10% - 4%);">
+        <div class="black-key" style="left: 0;" aria-hidden="true"></div>
+        <div class="black-key" style="left: calc(100% * 1 / 11);">
+          <img src="notes/0la+.svg" alt="ля♯₀" />
+        </div>
+        <div class="black-key" style="left: calc(100% * 3 / 11);">
           <img src="notes/do+.svg" alt="до♯" />
         </div>
-        <div class="black-key" style="left: calc(20% - 4%);">
+        <div class="black-key" style="left: calc(100% * 4 / 11);">
           <img src="notes/re+.svg" alt="ре♯" />
         </div>
-        <div class="black-key" style="left: calc(40% - 4%);">
+        <div class="black-key" style="left: calc(100% * 6 / 11);">
           <img src="notes/fa+.svg" alt="фа♯" />
         </div>
-        <div class="black-key" style="left: calc(50% - 4%);">
+        <div class="black-key" style="left: calc(100% * 7 / 11);">
           <img src="notes/sol+.svg" alt="соль♯" />
         </div>
-        <div class="black-key" style="left: calc(60% - 4%);">
+        <div class="black-key" style="left: calc(100% * 8 / 11);">
           <img src="notes/la+.svg" alt="ля♯" />
         </div>
-        <div class="black-key" style="left: calc(80% - 4%);">
+        <div class="black-key" style="left: calc(100% * 10 / 11);">
           <img src="notes/2do+.svg" alt="до♯²" />
         </div>
-        <div class="black-key" style="left: calc(90% - 4%);">
-          <img src="notes/2re+.svg" alt="ре♯²" />
-        </div>
+        <div class="black-key" style="left: 100%;" aria-hidden="true"></div>
       </div>
     </div>
   </body>
 </html>
-

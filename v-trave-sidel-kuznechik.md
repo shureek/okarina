@@ -1,25 +1,25 @@
 ## В траве сидел кузнечик
 
 В траве сидел кузнечик  
-![la](notes/la.svg) ![mi](notes/mi.svg) ![la](notes/la.svg) ![mi](notes/mi.svg) ![la](notes/la.svg) ![sol♯](notes/sol+.svg) ![sol♯](notes/sol+.svg)
+![la](notes/fa+.svg) ![mi](notes/do+.svg) ![la](notes/fa+.svg) ![mi](notes/do+.svg) ![la](notes/fa+.svg) ![sol♯](notes/fa.svg) ![sol♯](notes/fa.svg)
 
 В траве сидел кузнечик  
-![sol♯](notes/sol+.svg) ![mi](notes/mi.svg) ![sol♯](notes/sol+.svg) ![mi](notes/mi.svg) ![sol♯](notes/sol+.svg) ![la](notes/la.svg) ![la](notes/la.svg)
+![sol♯](notes/fa.svg) ![mi](notes/do+.svg) ![sol♯](notes/fa.svg) ![mi](notes/do+.svg) ![sol♯](notes/fa.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg)
 
 Совсем как огуречик  
-![la](notes/la.svg) ![mi](notes/mi.svg) ![la](notes/la.svg) ![mi](notes/mi.svg) ![la](notes/la.svg) ![sol♯](notes/sol+.svg) ![sol♯](notes/sol+.svg)
+![la](notes/fa+.svg) ![mi](notes/do+.svg) ![la](notes/fa+.svg) ![mi](notes/do+.svg) ![la](notes/fa+.svg) ![sol♯](notes/fa.svg) ![sol♯](notes/fa.svg)
 
 Зелёненький он был  
-![sol♯](notes/sol+.svg) ![mi](notes/mi.svg) ![sol♯](notes/sol+.svg) ![mi](notes/mi.svg) ![sol♯](notes/sol+.svg) ![la](notes/la.svg)
+![sol♯](notes/fa.svg) ![mi](notes/do+.svg) ![sol♯](notes/fa.svg) ![mi](notes/do+.svg) ![sol♯](notes/fa.svg) ![la](notes/fa+.svg)
 
 Представьте себе, представьте себе  
-![la](notes/la.svg) ![si](notes/si.svg) ![si](notes/si.svg) ![si](notes/si.svg) ![si](notes/si.svg) ![si](notes/si.svg) ![2do](notes/2do.svg) ![2do](notes/2do.svg) ![2do](notes/2do.svg) ![2do](notes/2do.svg)  
+![la](notes/fa+.svg) ![si](notes/sol+.svg) ![si](notes/sol+.svg) ![si](notes/sol+.svg) ![si](notes/sol+.svg) ![si](notes/sol+.svg) ![2do](notes/la.svg) ![2do](notes/la.svg) ![2do](notes/la.svg) ![2do](notes/la.svg)  
 
 Совсем как огуречик  
-![2do](notes/2do.svg) ![2do](notes/2do.svg) ![si](notes/si.svg) ![la](notes/la.svg) ![sol♯](notes/sol+.svg) ![la](notes/la.svg) ![la](notes/la.svg)
+![2do](notes/la.svg) ![2do](notes/la.svg) ![si](notes/sol+.svg) ![la](notes/fa+.svg) ![sol♯](notes/fa.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg)
 
 Представьте себе, представьте себе  
-![la](notes/la.svg) ![si](notes/si.svg) ![si](notes/si.svg) ![si](notes/si.svg) ![si](notes/si.svg) ![si](notes/si.svg) ![2do](notes/2do.svg) ![2do](notes/2do.svg) ![2do](notes/2do.svg) ![2do](notes/2do.svg)  
+![la](notes/fa+.svg) ![si](notes/sol+.svg) ![si](notes/sol+.svg) ![si](notes/sol+.svg) ![si](notes/sol+.svg) ![si](notes/sol+.svg) ![2do](notes/la.svg) ![2do](notes/la.svg) ![2do](notes/la.svg) ![2do](notes/la.svg)  
 
 Зелёненький он был  
-![2do](notes/2do.svg) ![2do](notes/2do.svg) ![si](notes/si.svg) ![la](notes/la.svg) ![sol♯](notes/sol+.svg) ![la](notes/la.svg) ![la](notes/la.svg)
+![2do](notes/la.svg) ![2do](notes/la.svg) ![si](notes/sol+.svg) ![la](notes/fa+.svg) ![sol♯](notes/fa.svg) ![la](notes/fa+.svg) ![la](notes/fa+.svg)
